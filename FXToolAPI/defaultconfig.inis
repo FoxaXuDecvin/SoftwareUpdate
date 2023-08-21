@@ -1,6 +1,6 @@
 [Current]
 Version=DevPrev-1.1
-VCODE=1100
+VCODE=1101
 Version=Developer Preview Version Not Release
 
 [mainUI]
@@ -16,3 +16,6 @@ UpdateURL=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/Download.api
 7zInstallDLLAPI=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/7zinsdll.api
 7zInstallEXEAPI=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/7zinsexe.api
 resfilepackAPI=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/resfileDown.api
+
+[ExtendDownload]
+osclean=https://developer.foxaxu.com/SoftwareUpdate/ExtendAPI/OSCleanAPI.api
