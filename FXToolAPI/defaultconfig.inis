@@ -1,12 +1,12 @@
 [Current]
-Version=FXTools 11.0.03 Last Developer Preview.
-VCODE=1103
+Version=FXTools Preview Version 11.1.05 Ready.
+VCODE=P1105
 VerHead=Developer Preview Version Not Release
 CodeName=Polar Star
 
 [mainUI]
 ConsoleTitle=FoxaXu Tool Box Developer Preview
-ConsoleShell= FX Tools Shell Console _$
+ConsoleShell= FX Tools Shell Console _$ 
 
 [Net]
 Switch=open
