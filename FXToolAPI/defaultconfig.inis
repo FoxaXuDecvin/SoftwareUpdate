@@ -1,8 +1,8 @@
 [Current]
-Version=FXTools Preview Version 11.1.05 Ready.
-VCODE=P1105
+Version=FXTools Preview Version 11.2.06 Ready.
+VCODE=P1106
 VerHead=Developer Preview Version Not Release
-CodeName=Polar Star
+CodeName=Polar Star Core
 
 [mainUI]
 ConsoleTitle=FoxaXu Tool Box Developer Preview
@@ -21,3 +21,4 @@ MsvcpAPI=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/msvcp.api
 
 [ExtendDownload]
 osclean=https://developer.foxaxu.com/SoftwareUpdate/ExtendAPI/OSCleanAPI.api
+oscheck=https://developer.foxaxu.com/SoftwareUpdate/ExtendAPI/OSCheckAPI.api
