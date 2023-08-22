@@ -6,7 +6,7 @@ CodeName=Polaris in night Sky
 
 [mainUI]
 ConsoleTitle=FoxaXu Tools Box.  Release Version
-ConsoleShell= FX Tools Command Line _   ~ $>
+ConsoleShell= FX Tools Command Line _ $>
 
 [Net]
 Switch=open
