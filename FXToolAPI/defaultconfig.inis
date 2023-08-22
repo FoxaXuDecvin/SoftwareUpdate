@@ -1,8 +1,8 @@
 [Current]
-Version=FXTools Preview Version 11.2.06 Ready.
-VCODE=P1106
-VerHead=Developer Preview Version Not Release
-CodeName=Polar Star Core
+Version=FXTools Release Version 11.3.07 Ready.
+VCODE=R1107
+VerHead=Release Version(Pre Update 1)
+CodeName=Polaris in night Sky
 
 [mainUI]
 ConsoleTitle=FoxaXu Tool Box Developer Preview
