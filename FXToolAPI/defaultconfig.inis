@@ -1,12 +1,12 @@
 [Current]
-Version=FXTools Release Version 11.3.08(R3) Ready.
-VCODE=R1108
-VerHead=Release Version.(Update Phase 3 EV) End Version
-CodeName=Polaris in night Sky
+Version=FXTools Build Preview Version 21.3.09 Not Release.
+VCODE=B2109
+VerHead=Build Preview Version (Developer Preview Version);
+CodeName=Sunset Sky(build)
 
 [mainUI]
-ConsoleTitle=FoxaXu Tools Box.  Release Version
-ConsoleShell= FXTools _ $>
+ConsoleTitle=FoxaXu Tools Box.  Sunset Sky Build Version
+ConsoleShell= FXTools (Build Version) _ $>
 
 [Net]
 Switch=open
