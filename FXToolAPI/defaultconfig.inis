@@ -1,12 +1,12 @@
 [Current]
-Version=FXTools Release Version 11.3.07(R2) Ready.
-VCODE=R1107
-VerHead=Release Version(Pre Update 2)
+Version=FXTools Release Version 11.3.08(R3) Ready.
+VCODE=R1108
+VerHead=Release Version.(Update Phase 3 EV)
 CodeName=Polaris in night Sky
 
 [mainUI]
 ConsoleTitle=FoxaXu Tools Box.  Release Version
-ConsoleShell= FX Tools Command Line _ $>
+ConsoleShell= FXTools _ $>
 
 [Net]
 Switch=open
