@@ -1,6 +1,6 @@
 [Current]
 Version=FXTools Build Preview Version 21.3.09 Not Release.
-VCODE=B2109
+VCODE=B2111
 VerHead=Build Preview Version (Developer Preview Version);
 CodeName=Sunset Sky(build)
 
@@ -18,6 +18,7 @@ UpdateURL=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/Download.api
 7zInstallEXEAPI=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/7zinsexe.api
 resfilepackAPI=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/resfileDown.api
 MsvcpAPI=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/msvcp.api
+UpdateCoreAPI=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/UpdateCore.api
 
 [ExtendDownload]
 osclean=https://developer.foxaxu.com/SoftwareUpdate/ExtendAPI/OSCleanAPI.api
