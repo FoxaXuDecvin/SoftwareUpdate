@@ -13,7 +13,6 @@ Switch=open
 TestURL=https://developer.foxaxu.com/SoftwareUpdate/CDS
 TestURLCode=OK.FoxaXu
 UpdateAPI=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/LatestVersion.api
-UpdateURL=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/Download.api
 7zInstallDLLAPI=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/7zinsdll.api
 7zInstallEXEAPI=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/7zinsexe.api
 resfilepackAPI=https://developer.foxaxu.com/SoftwareUpdate/FXToolAPI/resfileDown.api
