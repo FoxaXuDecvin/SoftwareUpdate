@@ -1,11 +1,11 @@
 [Current]
-Version=FXTools 2-Gen Release Version 22.6.03(v1) Release.
+Version=FXTools 2Gen Release Version 22.6.04(v2) Release.
 VCODE=R2113
-VerHead=Release Version (Update Phase 1)
+VerHead=Release Version (Update Phase 2)
 CodeName=Sunset Sky(Release Version)
 
 [mainUI]
-ConsoleTitle=FoxaXu Tools Box. 22.6.3
+ConsoleTitle=FoxaXu Tools Box. 22.6.04
 ConsoleShell= FXTools _ $>
 
 [Net]
