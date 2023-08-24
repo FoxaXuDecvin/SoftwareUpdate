@@ -1,8 +1,8 @@
 [Current]
-Version=FXTools Build Preview Version 21.3.09 Not Release.
-VCODE=B2111
-VerHead=Build Preview Version (Developer Preview Version);
-CodeName=Sunset Sky(build)
+Version=FXTools Developer Preview Version 22.5.02 Not Release.
+VCODE=P2112
+VerHead=Preview Version (Ready);
+CodeName=Sunset Sky(Test Version)
 
 [mainUI]
 ConsoleTitle=FoxaXu Tools Box.  Sunset Sky Build Version
