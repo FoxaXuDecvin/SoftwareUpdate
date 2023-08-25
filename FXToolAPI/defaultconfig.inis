@@ -1,8 +1,8 @@
 [Current]
-Version=FXTools Build Version 23.6.07(Preview) Release.
-VCODE=B3117
-VerHead=Build Version (Phase 2)
-CodeName=Ghost Core(Build)
+Version=FXTools Build Version 23.6.08(Preview) Release.
+VCODE=B3118
+VerHead=Build Version (Phase 3).
+CodeName=Ghost Core(Build).
 
 [mainUI]
 ConsoleTitle=FoxaXu Tools Box. Build Version
