@@ -1,12 +1,12 @@
 [Current]
-Version=FXTools Build Version 23.6.08(Preview) Release.
-VCODE=B3118
-VerHead=Build Version (Phase 3).
-CodeName=Ghost Core(Build).
+Version=FXTools Release Version 23.6.11(v1) Release.
+VCODE=R3121
+VerHead=Release Version (Update Phase 1).
+CodeName=Ghost Core(Release Version).
 
 [mainUI]
-ConsoleTitle=FoxaXu Tools Box. Build Version
-ConsoleShell= Command Shell Mode (Build) FXTools _ $>
+ConsoleTitle=FoxaXu Tools Box. 23.6.11
+ConsoleShell= Command Shell Mode   FXTools _ $>
 
 [Net]
 Switch=open
